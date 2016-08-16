@@ -1,0 +1,12 @@
+{
+    "name": "johnjamesjacoby/wp-term-meta-ui",
+    "authors": [
+        {
+            "name": "John James Jacoby",
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files" : ["class-wp-term-meta-ui.php"]
+    }
+}
